@@ -8,6 +8,7 @@ This site used an API to setup student enrollment for classes. This web applicat
 - Bootstrap
 - API
 - Google Fonts
+- [GitHub Pages](https://lwrgithub.github.io/student-enrollment/)
 
 
 ## Setup/Install
