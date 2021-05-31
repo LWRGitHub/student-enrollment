@@ -1,6 +1,10 @@
 # Student Enrollment
 This site used an API to setup student enrollment for classes. This web application is an example student enrollment platform. It alows the teacher to edit, add or remove students at any time. 
 
+***How to Use***
+- Click "Students" to edite & add them to a course
+- Click "Courses" to add student to course
+- Click "New Student to add a student 
 
 ## Tech Used
 - JS
