@@ -4,7 +4,7 @@ This site used an API to setup student enrollment for classes. This web applicat
 ***How to Use***
 - Click "Students" to edite & add them to a course
 - Click "Courses" to add student to course
-- Click "New Student to add a student 
+- Click "New Student" to add a student 
 
 ## Tech Used
 - JS
